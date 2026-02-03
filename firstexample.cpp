@@ -34,4 +34,8 @@ class Time {
  static Time now () {
  // the code
  }
+
 };
+/**
+*Hello
+*/
