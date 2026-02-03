@@ -27,11 +27,12 @@ class Time {
  // the code
  }
  /**
- * Get the current time.
+ * Get the current time for today.
  *
  * @return A time object set to the current time.
  */
  static Time now () {
  // the code
  }
+
 };
